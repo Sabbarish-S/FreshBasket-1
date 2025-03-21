@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_single_item_layout.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/single_item_layout.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_single_cart_item.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/single_cart_item.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/xml_data_extraction_rules.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/drawable_baseline_shopping_cart_24.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/drawable/baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_fragment_home.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/drawable_search_bg.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/drawable/search_bg.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_activity_register.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_single_bestsell_item.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/single_bestsell_item.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_activity_home.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_activity_payment.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_single_category_item.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/single_category_item.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/drawable_card.png.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/drawable/card.png"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_single_address_item.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/single_address_item.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/drawable_logo.png.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/drawable/logo.png"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/drawable_baseline_search_24.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/drawable_art_word.png.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/drawable/art_word.png"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/xml_backup_rules.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_activity_all_item.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/activity_all_item.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/menu_main_menu.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_activity_login.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_activity_add_address.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/activity_add_address.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_activity_item.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/activity_item.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_activity_cart.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_single_feature_item.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/single_feature_item.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/menu_search_menu.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/menu/search_menu.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_activity_detail.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/drawable_login_btn_bg.png.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/drawable/login_btn_bg.png"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_activity_address.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/activity_address.xml"
+    },
+    {
+        "merged": "com.sabbarish.androidjcomp.app-merged_res-38:/layout_activity_splash_screen.xml.flat",
+        "source": "com.sabbarish.androidjcomp.app-main-40:/layout/activity_splash_screen.xml"
+    }
+]

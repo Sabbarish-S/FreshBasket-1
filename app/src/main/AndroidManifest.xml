@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AndroidJcomp"
+        tools:targetApi="33">
+        <activity
+            android:name="com.sabbarish.androidjcomp.CartActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.sabbarish.androidjcomp.ItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.sabbarish.androidjcomp.PaymentActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.sabbarish.androidjcomp.AddAddressActivity"
+            android:exported="false"
+            android:parentActivityName="com.sabbarish.androidjcomp.AddressActivity" />
+        <activity
+            android:name="com.sabbarish.androidjcomp.AddressActivity"
+            android:exported="false"
+            android:parentActivityName="com.sabbarish.androidjcomp.DetailActivity" />
+        <activity
+            android:name="com.sabbarish.androidjcomp.DetailActivity"
+            android:exported="false"
+            android:parentActivityName="com.sabbarish.androidjcomp.HomeActivity" />
+        <activity
+            android:name="com.sabbarish.androidjcomp.ItemActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.sabbarish.androidjcomp.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.sabbarish.androidjcomp.RegisterActivity"
+            android:exported="false"
+            android:parentActivityName="com.sabbarish.androidjcomp.MainActivity" />
+        <activity
+            android:name="com.sabbarish.androidjcomp.LoginActivity"
+            android:exported="false"
+            android:parentActivityName="com.sabbarish.androidjcomp.MainActivity" />
+        <activity
+            android:name="com.sabbarish.androidjcomp.SplashScreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sabbarish.androidjcomp.MainActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.razorpay.ApiKey"
+            android:value="rzp_test_ZgUvwerD26fi5N" />
+    </application>
+
+</manifest>
